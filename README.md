@@ -22,7 +22,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [https://social-links-profile-three-vert.vercel.app/](https://social-links-profile-three-vert.vercel.app/)
+- Live Site URL: [https://testimonials-grid-section-red-nine.vercel.app/](https://testimonials-grid-section-red-nine.vercel.app/)
 
 ## My process
 
